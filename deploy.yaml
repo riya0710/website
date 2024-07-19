@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: priya2707/dockerassign3image:latest
+        image: priya2707/Capestoneproject
         ports:
         - containerPort: 80
