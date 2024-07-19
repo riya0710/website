@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-container
-        image: priya2707/Capestoneproject
+        image: priya2707/capestoneproject
         ports:
         - containerPort: 80
